@@ -9,3 +9,5 @@ Git is a version control system. Need in order to...
 To create  a newe repository (initialize)use the command:
 
     git init
+
+## Checking the status of a repository
