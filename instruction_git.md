@@ -39,3 +39,6 @@ This is command saves progress like git add and allows you to comment on how to 
 
 ## Git log
 This command displays all commits in the terminal
+
+## Git log --oneline --all
+This is a command to output to the terminal a list of all saves, showing the first seven digits and their commits
