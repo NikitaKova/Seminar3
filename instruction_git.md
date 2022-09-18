@@ -2,7 +2,7 @@
 
 ## What is Git
 
-Git is a version control system. Need in order to...
+Git is a version control system. Need in order to needed to manage code version.
 
 ## Create a repository
 
