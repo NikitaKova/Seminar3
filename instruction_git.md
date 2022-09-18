@@ -42,5 +42,9 @@ This command displays all commits in the terminal
 
 ## Git log --oneline --all
 This is a command to output to the terminal a list of all saves, showing the first seven digits and their commits
+
 ## Git diff
 This command shows the changes since the last git commit --am command
+
+## Git checkout 
+This command allows you to return to the desired save
