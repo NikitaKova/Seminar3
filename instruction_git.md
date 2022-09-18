@@ -37,3 +37,5 @@ This is command saves progress like git add and open a text editor window
 ## Git commit -am "Message"
 This is command saves progress like git add and allows you to comment on how to git commit -m " "
 
+## Git log
+This command displays all commits in the terminal
