@@ -28,3 +28,6 @@ Git status is needed to check if the text is saved and commented
 ## Git add file name
 Git add this command is needed to save progress
 
+## Git commit -m "message"
+This command is needed in order to comment the save version of the code
+
