@@ -24,3 +24,7 @@ To create  a newe repository (initialize) use the command:
     git checkout <hash>
 ## Git status
 Git status is needed to check if the text is saved and commented
+
+## Git add file name
+Git add this command is needed to save progress
+
