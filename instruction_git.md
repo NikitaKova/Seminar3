@@ -33,3 +33,7 @@ This command is needed in order to comment the save version of the code
 
 ## Git commit -a
 This is command saves progress like git add and open a text editor window
+
+## Git commit -am "Message"
+This is command saves progress like git add and allows you to comment on how to git commit -m " "
+
