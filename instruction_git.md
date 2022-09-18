@@ -31,3 +31,5 @@ Git add this command is needed to save progress
 ## Git commit -m "message"
 This command is needed in order to comment the save version of the code
 
+## Git commit -a
+This is command saves progress like git add and open a text editor window
