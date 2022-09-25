@@ -50,3 +50,7 @@ This command shows the changes since the last git commit --am command
 
 ## Git checkout 
 This command allows you to return to the desired save
+
+## Branching
+
+To see all the branches you need to enter the command git branch and to create a new branch you need to enter the command git branch new branch name
