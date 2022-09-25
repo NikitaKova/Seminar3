@@ -56,3 +56,7 @@ This command allows you to return to the desired save
 To see all the branches you need to enter the command git branch and to create a new branch you need to enter the command git branch new branch name
 
 ## View branches
+
+to browse branches use the command
+    git branch
+    
