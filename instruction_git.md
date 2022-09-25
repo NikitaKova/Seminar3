@@ -60,3 +60,8 @@ To see branch you need enter the command
     git branch
 
 ## Create new branch
+For create new branch enter command
+
+    git branch new branch name
+
+    
