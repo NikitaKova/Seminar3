@@ -59,11 +59,11 @@ To see all the branches you need to enter the command git branch and to create a
 for view branches enter command 
 
     git branch
-    
+
 
 ## Create new branch
 For create new branch enter command
 
     git branch new branch name
 
-    
+## Mergin branches    
