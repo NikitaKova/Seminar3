@@ -1,5 +1,7 @@
 # **Instruction with work system control version Git**
 
+![File Git](1color.png)
+
 ## What is Git
 
 Git is a version control system. Need in order to needed to manage code version.
