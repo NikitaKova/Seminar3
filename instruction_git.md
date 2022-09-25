@@ -67,3 +67,7 @@ For create new branch enter command
     git branch new branch name
 
 ## Mergin branches    
+branch merge is used to lean the master branch and any other branch with the command
+
+    git merge branch name
+    
