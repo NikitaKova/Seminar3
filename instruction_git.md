@@ -60,3 +60,4 @@ To see all the branches you need to enter the command git branch and to create a
 to browse branches use the command
     git branch
     
+## Create new branch
