@@ -72,3 +72,7 @@ branch merge is used to lean the master branch and any other branch with the com
     git merge branch name
     
 ## Deleted branch
+in order to delete a branch, you need to enter the command
+    
+    git branch -d branch name
+    
