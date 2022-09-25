@@ -57,8 +57,9 @@ To see all the branches you need to enter the command git branch and to create a
 
 ## View branches
 
-to browse branches use the command
-
-    git branch
-    
 ## Create new branch
+For create new branch enter command
+
+    git branch new branch name
+
+    
