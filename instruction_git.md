@@ -76,3 +76,6 @@ in order to delete a branch, you need to enter the command
     
     git branch -d branch name
     
+## Extended repository
+
+## Linking a local repository to a remote one
